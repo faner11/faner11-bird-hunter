@@ -9,7 +9,7 @@
 
 ## 安装方法
 ### 电脑端
-1. 安装浏览器篡改猴插件 Tampermonkey [前往 Chrome 商店安装](https://www.tampermonkey.net/)
+1. 安装浏览器篡改猴插件 Tampermonkey [前往 Chrome 商店安装](https://chromewebstore.google.com/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 1. 浏览器设置=》 拓展程序, 进入拓展程序页面后，打开右上角的开发者模式
 1. 安装脚本 [点击安装](https://github.com/faner11/faner11-bird-hunter/raw/main/bird-hunter.user.js)
 1. 安装成功后，打开始祖鸟商品详情页，可以看到右下角有捕鸟专家按钮，点击即可使用我们的捕鸟工具
