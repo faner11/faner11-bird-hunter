@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         专业捕鸟人
 // @namespace    http://tampermonkey.net/5GVBKlRpx98iVhG/mu2XMB
-// @version      2024-09-30
+// @version      2024-10-09
 // @author       Bob
 // @description  合作加vx
 // @icon         https://github.com/faner11/faner11-bird-hunter/blob/main/IMG_5007.jpeg?raw=true
@@ -11,6 +11,7 @@
 // @match        https://outlet.arcteryx.com/*
 // @match        http://localhost:*/*
 // @match        https://*.ngrok-free.app/*
+// @match        https://*.goodhunter.cc/*
 // @connect      mixpanel.com
 // @grant        GM_addValueChangeListener
 // @grant        GM_deleteValue
